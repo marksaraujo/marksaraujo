@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**marksaraujo/marksaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou o Marcos Araujo! 🖐🏼
+📚 Cursando ensino superior em gestão da tecnologia da informação.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-araujo-b20465353)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosvinicius.araujoj@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Conhecimento
+<div style= "display: inline_block"><br>
+    <img align="center" 
+    alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img align="center" 
+    alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" 
+    alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /><img align="center"
+    alt="PowerBI" src="https://img.shields.io/badge/-Power%20BI-002050?style=for-the-badge&logo=powerbi&logoColor=white" /><img align="center"
+    alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img align="center"
+
+
+ㅤ
+</div>
+
+##
+
+![Marks GitHub stats](https://github-readme-stats.vercel.app/api?username=marksaraujo&show_icons=true&theme=tokyonight&locale=pt-br)
