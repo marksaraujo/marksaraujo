@@ -1,5 +1,8 @@
 
 ### Olá, eu sou o Marcos Araujo! 🖐🏼
+
+**`Analista de dados`**
+
 📚 Cursando ensino superior em gestão da tecnologia da informação.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-araújo-b20465353/)
