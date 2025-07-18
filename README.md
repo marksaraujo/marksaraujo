@@ -12,7 +12,6 @@
     alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img align="center" 
     alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" 
-    alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /><img align="center"
     alt="PowerBI" src="https://img.shields.io/badge/-Power%20BI-002050?style=for-the-badge&logo=powerbi&logoColor=white" /><img align="center"
     alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img align="center"
 
