@@ -3,7 +3,7 @@
 
 **`Analista de dados`**
 
-📚 Cursando ensino superior em gestão da tecnologia da informação.
+👋 Olá! Atualmente sou estudante de Gestão da Tecnologia da Informação, com interesse crescente na área de Dados. Tenho direcionado meus estudos para Python, SQL e ferramentas de análise, buscando me aprofundar nesse caminho e me tornar, futuramente, um Analista de Dados. Sempre aprendendo e evoluindo com foco em aplicar a tecnologia de forma estratégica.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-araújo-b20465353/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=marcosvinicius.araujoj@gmail.com)
