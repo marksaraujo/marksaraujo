@@ -28,7 +28,7 @@ Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 
 ---
 
-<p align="center"><i>Aprendizado contínuo, uma volta de cada vez.</i></p>
+<p align="center"><i>Entre códigos, automações e dados, sigo construindo meu caminho na tecnologia, aprendendo e evoluindo a cada projeto.</i></p>
 
 <p align="center">
   <img src="assets/carro-transparente-v3.png" alt="Carro preto em pixel art" width="360" />
