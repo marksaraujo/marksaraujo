@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="408" height="96" viewBox="0 0 408 96"><title>Python, SQL, Excel e Google Apps Script</title>
+<svg x="8" y="0" overflow="hidden" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 48 48" role="img"><title>Python, SQL, Excel e Google Apps Script</title>
+<g fill="#242938"><rect width="48" height="48" rx="10"/><rect x="56" width="48" height="48" rx="10"/><rect x="112" width="48" height="48" rx="10"/><rect x="168" width="48" height="48" rx="10"/></g>
+<g transform="translate(9 7) scale(.51)"><path d="M29 0C9 0 10 7 10 19h23v5H5C-5 24-5 49 5 49h10V36h28c10 0 10-9 10-22S45 0 29 0" fill="#3776ab"/><circle cx="22" cy="9" r="3" fill="white"/><path d="M29 66c20 0 19-7 19-19H25v-5h28c10 0 10-25 0-25H43v13H15C5 30 5 39 5 52s8 14 24 14" fill="#ffd343"/><circle cx="36" cy="57" r="3" fill="white"/></g>
+<g transform="translate(65 8)" fill="#42a5f5" stroke="#242938" stroke-width="1.5"><path d="M0 6v23c0 8 30 8 30 0V6"/><ellipse cx="15" cy="6" rx="15" ry="6"/><path d="M0 16c0 8 30 8 30 0M0 24c0 8 30 8 30 0" fill="none"/></g>
+<g transform="translate(120 8) scale(.53)"><rect x="15" width="47" height="59" rx="4" fill="#21a366"/><path d="M39 0v59M15 20h47M15 39h47" stroke="#8de5b6" stroke-width="2"/><rect y="12" width="38" height="38" rx="3" fill="#107c41"/><path d="m10 21 18 20m0-20L10 41" stroke="white" stroke-width="5"/></g>
+<g transform="translate(176 8)"><path d="M3 0h19l8 8v24H3z" fill="#4285f4"/><path d="M22 0v8h8" fill="#a1c2fa"/><path d="m12 13-6 5 6 5m9-10 6 5-6 5" fill="none" stroke="white" stroke-width="2.5"/><path d="m18 11-4 15" stroke="#fbbc04" stroke-width="2.5"/></g></svg>
+
+
+<text x="40" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#858d99">Python</text>
+<svg x="96" y="0" overflow="hidden" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="56 0 48 48" role="img"><title>Python, SQL, Excel e Google Apps Script</title>
+<g fill="#242938"><rect width="48" height="48" rx="10"/><rect x="56" width="48" height="48" rx="10"/><rect x="112" width="48" height="48" rx="10"/><rect x="168" width="48" height="48" rx="10"/></g>
+<g transform="translate(9 7) scale(.51)"><path d="M29 0C9 0 10 7 10 19h23v5H5C-5 24-5 49 5 49h10V36h28c10 0 10-9 10-22S45 0 29 0" fill="#3776ab"/><circle cx="22" cy="9" r="3" fill="white"/><path d="M29 66c20 0 19-7 19-19H25v-5h28c10 0 10-25 0-25H43v13H15C5 30 5 39 5 52s8 14 24 14" fill="#ffd343"/><circle cx="36" cy="57" r="3" fill="white"/></g>
+<g transform="translate(65 8)" fill="#42a5f5" stroke="#242938" stroke-width="1.5"><path d="M0 6v23c0 8 30 8 30 0V6"/><ellipse cx="15" cy="6" rx="15" ry="6"/><path d="M0 16c0 8 30 8 30 0M0 24c0 8 30 8 30 0" fill="none"/></g>
+<g transform="translate(120 8) scale(.53)"><rect x="15" width="47" height="59" rx="4" fill="#21a366"/><path d="M39 0v59M15 20h47M15 39h47" stroke="#8de5b6" stroke-width="2"/><rect y="12" width="38" height="38" rx="3" fill="#107c41"/><path d="m10 21 18 20m0-20L10 41" stroke="white" stroke-width="5"/></g>
+<g transform="translate(176 8)"><path d="M3 0h19l8 8v24H3z" fill="#4285f4"/><path d="M22 0v8h8" fill="#a1c2fa"/><path d="m12 13-6 5 6 5m9-10 6 5-6 5" fill="none" stroke="white" stroke-width="2.5"/><path d="m18 11-4 15" stroke="#fbbc04" stroke-width="2.5"/></g></svg>
+
+
+<text x="128" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#858d99">SQL</text>
+<svg x="184" y="0" overflow="hidden" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="112 0 48 48" role="img"><title>Python, SQL, Excel e Google Apps Script</title>
+<g fill="#242938"><rect width="48" height="48" rx="10"/><rect x="56" width="48" height="48" rx="10"/><rect x="112" width="48" height="48" rx="10"/><rect x="168" width="48" height="48" rx="10"/></g>
+<g transform="translate(9 7) scale(.51)"><path d="M29 0C9 0 10 7 10 19h23v5H5C-5 24-5 49 5 49h10V36h28c10 0 10-9 10-22S45 0 29 0" fill="#3776ab"/><circle cx="22" cy="9" r="3" fill="white"/><path d="M29 66c20 0 19-7 19-19H25v-5h28c10 0 10-25 0-25H43v13H15C5 30 5 39 5 52s8 14 24 14" fill="#ffd343"/><circle cx="36" cy="57" r="3" fill="white"/></g>
+<g transform="translate(65 8)" fill="#42a5f5" stroke="#242938" stroke-width="1.5"><path d="M0 6v23c0 8 30 8 30 0V6"/><ellipse cx="15" cy="6" rx="15" ry="6"/><path d="M0 16c0 8 30 8 30 0M0 24c0 8 30 8 30 0" fill="none"/></g>
+<g transform="translate(120 8) scale(.53)"><rect x="15" width="47" height="59" rx="4" fill="#21a366"/><path d="M39 0v59M15 20h47M15 39h47" stroke="#8de5b6" stroke-width="2"/><rect y="12" width="38" height="38" rx="3" fill="#107c41"/><path d="m10 21 18 20m0-20L10 41" stroke="white" stroke-width="5"/></g>
+<g transform="translate(176 8)"><path d="M3 0h19l8 8v24H3z" fill="#4285f4"/><path d="M22 0v8h8" fill="#a1c2fa"/><path d="m12 13-6 5 6 5m9-10 6 5-6 5" fill="none" stroke="white" stroke-width="2.5"/><path d="m18 11-4 15" stroke="#fbbc04" stroke-width="2.5"/></g></svg>
+
+
+<text x="216" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#858d99">Excel</text>
+<svg x="272" y="0" overflow="hidden" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="168 0 48 48" role="img"><title>Python, SQL, Excel e Google Apps Script</title>
+<g fill="#242938"><rect width="48" height="48" rx="10"/><rect x="56" width="48" height="48" rx="10"/><rect x="112" width="48" height="48" rx="10"/><rect x="168" width="48" height="48" rx="10"/></g>
+<g transform="translate(9 7) scale(.51)"><path d="M29 0C9 0 10 7 10 19h23v5H5C-5 24-5 49 5 49h10V36h28c10 0 10-9 10-22S45 0 29 0" fill="#3776ab"/><circle cx="22" cy="9" r="3" fill="white"/><path d="M29 66c20 0 19-7 19-19H25v-5h28c10 0 10-25 0-25H43v13H15C5 30 5 39 5 52s8 14 24 14" fill="#ffd343"/><circle cx="36" cy="57" r="3" fill="white"/></g>
+<g transform="translate(65 8)" fill="#42a5f5" stroke="#242938" stroke-width="1.5"><path d="M0 6v23c0 8 30 8 30 0V6"/><ellipse cx="15" cy="6" rx="15" ry="6"/><path d="M0 16c0 8 30 8 30 0M0 24c0 8 30 8 30 0" fill="none"/></g>
+<g transform="translate(120 8) scale(.53)"><rect x="15" width="47" height="59" rx="4" fill="#21a366"/><path d="M39 0v59M15 20h47M15 39h47" stroke="#8de5b6" stroke-width="2"/><rect y="12" width="38" height="38" rx="3" fill="#107c41"/><path d="m10 21 18 20m0-20L10 41" stroke="white" stroke-width="5"/></g>
+<g transform="translate(176 8)"><path d="M3 0h19l8 8v24H3z" fill="#4285f4"/><path d="M22 0v8h8" fill="#a1c2fa"/><path d="m12 13-6 5 6 5m9-10 6 5-6 5" fill="none" stroke="white" stroke-width="2.5"/><path d="m18 11-4 15" stroke="#fbbc04" stroke-width="2.5"/></g></svg>
+
+
+<text x="304" y="86" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#858d99">Google Apps Script</text>
+</svg>

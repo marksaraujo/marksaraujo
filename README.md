@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## Sobre mim
 
@@ -22,23 +21,16 @@ Tenho interesse em explorar dados, automatizar tarefas e transformar informaçõ
 
 Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 
-## Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/python.svg" alt="Python" width="64" height="64" /><br />Python</td>
-    <td align="center"><img src="assets/sql.svg" alt="SQL" width="64" height="64" /><br />SQL</td>
-    <td align="center"><img src="assets/excel.svg" alt="Excel" width="64" height="64" /><br />Excel</td>
-    <td align="center"><img src="assets/google-apps-script.svg" alt="Google Apps Script" width="64" height="64" /><br />Google Apps Script</td>
-  </tr>
-</table>
+<p align="left"><img src="assets/tecnologias-nomes.svg" alt="Python, SQL, Excel e Google Apps Script" width="408" height="96" /></p>
 
----
 
 <p align="center"><i>Aprendizado contínuo, uma volta de cada vez.</i></p>
 
 <p align="center">
   <img src="assets/carro-transparente-v3.png" alt="Carro preto em pixel art" width="360" />
 </p>
+
 
 
