@@ -11,7 +11,7 @@
 </div>
 
 
-## Sobre mim
+### Sobre mim
 
 Sou Assistente de Dados na Construtora Metrocasa e estudante de Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Estou construindo minha trajetória em Análise de Dados, conectando minha formação ao aprendizado na prática.
 
@@ -26,11 +26,14 @@ Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 <p align="left"><img src="assets/tecnologias-nomes.svg" alt="Python, SQL, Excel e Google Apps Script" width="408" height="96" /></p>
 
 
+---
+
 <p align="center"><i>Aprendizado contínuo, uma volta de cada vez.</i></p>
 
 <p align="center">
   <img src="assets/carro-transparente-v3.png" alt="Carro preto em pixel art" width="360" />
 </p>
+
 
 
 
