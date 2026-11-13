@@ -4,8 +4,6 @@
 
 ### Assistente de Dados • Python • SQL • Automação
 
-<img src="assets/f1.svg" alt="Ilustração de um carro de Fórmula 1 vermelho" width="460" />
-
 **Explorando dados, descobrindo caminhos.**
 
 [LinkedIn](https://www.linkedin.com/in/marcosaraujoj/)
@@ -18,18 +16,22 @@
 
 Sou Assistente de Dados na Construtora Metrocasa e estudante de Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Estou construindo minha trajetória em Análise de Dados, conectando minha formação ao aprendizado na prática.
 
-Utilizo Python, SQL, Excel, Power Automate e BigQuery e sigo aprofundando meus conhecimentos em análise de dados e automação.
+Utilizo Python, SQL, Excel e Google Apps Script e sigo aprofundando meus conhecimentos em análise de dados e automação.
 
 Tenho interesse em explorar dados, automatizar tarefas e transformar informações em análises que ajudem a compreender problemas e apoiar decisões.
 
-Por aqui, compartilho meus aprendizados e minha evolução nessa jornada. 🏎️
+Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="assets/tecnologias.svg" alt="Python, SQL, Excel, Power Automate e Google BigQuery" width="660" />
+  <img src="assets/tecnologias.svg" alt="Python, SQL, Excel e Google Apps Script" width="216" height="48" />
 </p>
 
 ---
 
 <p align="center"><i>Aprendizado contínuo, uma volta de cada vez.</i></p>
+
+<p align="center">
+  <img src="assets/carro-pixel.png" alt="Carro preto em pixel art" width="180" />
+</p>
