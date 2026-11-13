@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Olá, eu sou o Marcos Araújo! 👋
 
@@ -6,7 +6,7 @@
 
 **Explorando dados, descobrindo caminhos.**
 
-[LinkedIn](https://www.linkedin.com/in/marcosaraujoj/)
+<a href="https://www.linkedin.com/in/marcosaraujoj/"><img src="assets/linkedin.svg" alt="LinkedIn" width="112" height="32" /></a>
 
 </div>
 
@@ -25,7 +25,7 @@ Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="assets/tecnologias.svg" alt="Python, SQL, Excel e Google Apps Script" width="216" height="48" />
+  <img src="assets/tecnologias.svg" alt="Python, SQL, Excel e Google Apps Script" width="288" height="64" />
 </p>
 
 ---
@@ -35,3 +35,4 @@ Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 <p align="center">
   <img src="assets/carro-pixel.png" alt="Carro preto em pixel art" width="180" />
 </p>
+
