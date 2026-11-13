@@ -35,5 +35,17 @@ Por aqui, compartilho meus aprendizados e minha evolução nessa jornada.
 </p>
 
 
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marksaraujo&theme=github-dark-blue&locale=pt_BR" alt="Sequência de contribuições">
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0A66C2/marksaraujo" alt="Contribuições no GitHub" width="100%">
+</p>
+
+<p align="center">📍 São Paulo, SP</p>
+
 
 
