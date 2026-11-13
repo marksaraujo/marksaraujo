@@ -1,27 +1,35 @@
+<div align="center">
 
-### Olá, eu sou o Marcos Araujo! 🖐🏼
+# Olá, eu sou o Marcos Araújo! 👋
 
-**`Analista de dados`**
+### Assistente de Dados • Python • SQL • Automação
 
-👋 Olá! Atualmente sou estudante de Gestão da Tecnologia da Informação, com interesse crescente na área de Dados. Tenho direcionado meus estudos para Python, SQL e ferramentas de análise, buscando me aprofundar nesse caminho e me tornar, futuramente, um Analista de Dados. Sempre aprendendo e evoluindo com foco em aplicar a tecnologia de forma estratégica.
+<img src="assets/f1.svg" alt="Ilustração de um carro de Fórmula 1 vermelho" width="460" />
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-araújo-b20465353/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=marcosvinicius.araujoj@gmail.com)
+**Explorando dados, descobrindo caminhos.**
 
+[LinkedIn](https://www.linkedin.com/in/marcosaraujoj/)
 
-# Conhecimento
-<div style= "display: inline_block"><br>
-    <img align="center" 
-    alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img align="center" 
-    alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" 
-    alt="PowerBI" src="https://img.shields.io/badge/-Power%20BI-002050?style=for-the-badge&logo=powerbi&logoColor=white" /><img align="center"
-    alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><img align="center"
-
-
-ㅤ
 </div>
 
-##
+---
 
-![Marks GitHub stats](https://github-readme-stats.vercel.app/api?username=marksaraujo&show_icons=true&theme=tokyonight&locale=pt-br)
+## Sobre mim
+
+Sou Assistente de Dados na Construtora Metrocasa e estudante de Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Estou construindo minha trajetória em Análise de Dados, conectando minha formação ao aprendizado na prática.
+
+Utilizo Python, SQL, Excel, Power Automate e BigQuery e sigo aprofundando meus conhecimentos em análise de dados e automação.
+
+Tenho interesse em explorar dados, automatizar tarefas e transformar informações em análises que ajudem a compreender problemas e apoiar decisões.
+
+Por aqui, compartilho meus aprendizados e minha evolução nessa jornada. 🏎️
+
+## Tecnologias e ferramentas
+
+<p align="center">
+  <img src="assets/tecnologias.svg" alt="Python, SQL, Excel, Power Automate e Google BigQuery" width="660" />
+</p>
+
+---
+
+<p align="center"><i>Aprendizado contínuo, uma volta de cada vez.</i></p>

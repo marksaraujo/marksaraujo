@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="title">
+  <title id="title">Carro de Fórmula 1 vermelho</title>
+  <ellipse cx="320" cy="204" rx="262" ry="9" fill="#64748b" opacity=".16"/>
+  <g fill="none" stroke="#94a3b8" stroke-width="4" stroke-linecap="round" opacity=".5"><path d="M42 139h86"/><path d="M66 119h70"/><path d="M22 159h72"/></g>
+  <path d="M94 177l54-37 101-14 68-49h54l27 49 88 12 57 36v19H92z" fill="#e51b23"/>
+  <path d="M181 162l122-25 83 2-29 47H181z" fill="#b80916"/>
+  <path d="M238 138l81-53h34l24 43z" fill="#ff3840"/>
+  <path d="M291 114l29-25h32l13 25z" fill="#172033"/>
+  <path d="M263 136c70-13 123-12 180 9" fill="none" stroke="#ffb3b7" stroke-width="5"/>
+  <path d="M479 93h17v74h-17z" fill="#b80916"/>
+  <rect x="463" y="81" width="80" height="19" rx="4" fill="#272636"/>
+  <path d="M80 181h111v18H80zM473 181h84v18h-84z" fill="#272636"/>
+  <g fill="#252535" stroke="#373748" stroke-width="7"><circle cx="191" cy="173" r="42"/><circle cx="459" cy="173" r="42"/></g>
+  <g fill="#cbd5e1"><circle cx="191" cy="173" r="26"/><circle cx="459" cy="173" r="26"/></g>
+  <g fill="#718595"><circle cx="191" cy="173" r="17"/><circle cx="459" cy="173" r="17"/></g>
+  <g fill="#252535"><circle cx="191" cy="173" r="9"/><circle cx="459" cy="173" r="9"/></g>
+</svg>
